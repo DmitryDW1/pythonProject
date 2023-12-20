@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="New commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_internal/metadata/importlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_internal/network/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/tomli/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/truststore/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/truststore/_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/truststore/_macos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/truststore/_openssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/truststore/_ssl_constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pip/_vendor/truststore/_windows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/importlib_resources/_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/__init__.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/more.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/more_itertools/recipes.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/packaging/_elffile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/packaging/_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/packaging/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/packaging/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/platformdirs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/platformdirs/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/platformdirs/android.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/platformdirs/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/platformdirs/macos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/platformdirs/unix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/platformdirs/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/pkg_resources/_vendor/platformdirs/windows.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools-69.0.2.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_core_metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_distutils/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_distutils/_functools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_distutils/_log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_distutils/_modified.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_distutils/dep_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_distutils/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_distutils/py39compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_normalization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_reqs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/importlib_metadata/_py39compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/importlib_resources/_common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/more_itertools/__init__.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/more_itertools/more.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/more_itertools/recipes.pyi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/packaging/_elffile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/packaging/_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/packaging/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/packaging/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/_vendor/tomli/py.typed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/cli-32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/cli-64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/cli-arm64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/cli.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/command/_requirestxt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/dep_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/gui-32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/gui-64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/gui-arm64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/gui.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/modified.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/py312compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nev_venv/Lib/site-packages/setuptools/warnings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_1/.new_venv/Lib/site-packages/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_1/.new_venv/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_1/.new_venv/Lib/site-packages/setuptools/_vendor/packaging/__about__.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="DmitryDW1 &lt;dmitrydw13@yandex.ru&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Zizd6NhzcwOdiJ4QrVRHuK50A6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.task1.executor": "Run",
+    "Python.task_if_1.executor": "Run",
+    "Python.task_if_10.executor": "Run",
+    "Python.task_if_3.executor": "Run",
+    "Python.task_if_4.executor": "Run",
+    "Python.task_if_5.executor": "Run",
+    "Python.task_if_6.executor": "Run",
+    "Python.task_if_7.executor": "Run",
+    "Python.task_if_8.executor": "Run",
+    "Python.task_if_9.executor": "Run",
+    "Python.task_loop_1.executor": "Run",
+    "Python.task_loop_2.executor": "Run",
+    "Python.task_loop_3.executor": "Run",
+    "Python.task_loop_4.executor": "Run",
+    "Python.task_loop_6.executor": "Run",
+    "Python.task_loop_7.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/DmitryDW/PycharmProjects/python_web_seminar_1",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DmitryDW\PycharmProjects\pythonProject" />
+      <recent name="C:\Users\DmitryDW\PycharmProjects\pythonProject\.venv\Lection1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="" />
+      <created>1702919773083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702919773083</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703048767702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703048767702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703053012268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703053012268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703053052838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703053052838</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703053111194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703053111194</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703058077624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058077624</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703058766287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058766287</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703058830798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058830798</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703059499310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703059499311</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
+  </component>
+</project>
