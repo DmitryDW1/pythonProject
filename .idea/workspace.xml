@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_9">
-      <change afterPath="$PROJECT_DIR$/seminar_1/home_work_sem_1/hw_task_1.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add hw_task_1">
+      <change afterPath="$PROJECT_DIR$/seminar_1/home_work_sem_1/hw_task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_1/home_work_sem_1/hw_task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +50,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.hw_task_1.executor": "Run",
+    "Python.hw_task_2.executor": "Debug",
     "Python.task1.executor": "Run",
     "Python.task_6.executor": "Run",
     "Python.task_7.executor": "Run",
@@ -211,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703074729187</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add hw_task_1">
+      <option name="closed" value="true" />
+      <created>1703074867033</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703074867033</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +243,7 @@
     <MESSAGE value="Add tasks" />
     <MESSAGE value="Add task_8" />
     <MESSAGE value="Add task_9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task_9" />
+    <MESSAGE value="Add hw_task_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw_task_1" />
   </component>
 </project>
