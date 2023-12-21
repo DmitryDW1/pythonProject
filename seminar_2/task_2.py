@@ -13,7 +13,7 @@
 
 """
 
-data = ["One", 1, "two", 2.3, True, "One", 270, "1", 260 + 10]
+data = ["One", 1, "two", 2.3, True, "One", [1], "1", 260 + 10]
 for i in range(len(data)):
     print(f"{i + 1}. {data[i]}, id - {id(data[i])}, size - {data[i].__sizeof__()}, hash - {hash(data[i])},\n")
     if isinstance(data[i], int):
