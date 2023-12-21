@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_dig_3.py and task_dig_4.py, task_dig_5.py">
-      <change afterPath="$PROJECT_DIR$/Lection2/task_dig_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_dig_7.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_dig_6.py and task_dig_7.py, task_dig_8.py">
+      <change afterPath="$PROJECT_DIR$/Lection2/task_str_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection2/task_str_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,7 @@
     "Python.task_dig_5.executor": "Run",
     "Python.task_dig_6.executor": "Run",
     "Python.task_dig_7.executor": "Run",
+    "Python.task_dig_8.executor": "Run",
     "Python.task_if_1.executor": "Run",
     "Python.task_if_10.executor": "Run",
     "Python.task_if_3.executor": "Run",
@@ -86,6 +88,8 @@
     "Python.task_loop_7.executor": "Run",
     "Python.task_mut_1.executor": "Run",
     "Python.task_mut_2.executor": "Run",
+    "Python.task_str_1.executor": "Run",
+    "Python.task_str_2.executor": "Run",
     "Python.task_type_1.executor": "Run",
     "Python.task_type_2.executor": "Run",
     "Python.task_type_3.executor": "Run",
@@ -306,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703142158022</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add task_dig_6.py and task_dig_7.py, task_dig_8.py">
+      <option name="closed" value="true" />
+      <created>1703142727611</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1703142727611</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,6 +343,7 @@
     <MESSAGE value="Lection2" />
     <MESSAGE value="Add task_dig_1.py and task_dig_2.py" />
     <MESSAGE value="Add task_dig_3.py and task_dig_4.py, task_dig_5.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task_dig_3.py and task_dig_4.py, task_dig_5.py" />
+    <MESSAGE value="Add task_dig_6.py and task_dig_7.py, task_dig_8.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task_dig_6.py and task_dig_7.py, task_dig_8.py" />
   </component>
 </project>
