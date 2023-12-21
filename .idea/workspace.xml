@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_str_1.py.py and task_str_2.py.py, task_str_3.py.py" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_str_4">
+      <change afterPath="$PROJECT_DIR$/Lection2/pract_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +53,7 @@
     "Python.hw_task_2.executor": "Debug",
     "Python.hw_task_3.executor": "Run",
     "Python.pract_1.executor": "Run",
+    "Python.pract_2.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task_6.executor": "Run",
     "Python.task_7.executor": "Run",
@@ -87,6 +91,7 @@
     "Python.task_str_1.executor": "Run",
     "Python.task_str_2.executor": "Run",
     "Python.task_str_3.executor": "Run",
+    "Python.task_str_4.executor": "Run",
     "Python.task_type_1.executor": "Run",
     "Python.task_type_2.executor": "Run",
     "Python.task_type_3.executor": "Run",
@@ -323,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703143520918</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add task_str_4">
+      <option name="closed" value="true" />
+      <created>1703144159839</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1703144159839</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,6 +363,7 @@
     <MESSAGE value="Add task_dig_3.py and task_dig_4.py, task_dig_5.py" />
     <MESSAGE value="Add task_dig_6.py and task_dig_7.py, task_dig_8.py" />
     <MESSAGE value="Add task_str_1.py.py and task_str_2.py.py, task_str_3.py.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task_str_1.py.py and task_str_2.py.py, task_str_3.py.py" />
+    <MESSAGE value="Add task_str_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task_str_4" />
   </component>
 </project>
