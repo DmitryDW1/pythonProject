@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_math_4.py, task_math_5.py">
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_1.py, task_2.py">
       <change afterPath="$PROJECT_DIR$/seminar_2/task_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seminar_2/task_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -368,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703145937967</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add task_1.py, task_2.py">
+      <option name="closed" value="true" />
+      <created>1703148559024</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1703148559024</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -399,6 +407,7 @@
     <MESSAGE value="Add pract_2.py" />
     <MESSAGE value="Add task_math_1.py, task_math_2.py, task_math_3.py" />
     <MESSAGE value="Add task_math_4.py, task_math_5.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task_math_4.py, task_math_5.py" />
+    <MESSAGE value="Add task_1.py, task_2.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task_1.py, task_2.py" />
   </component>
 </project>
