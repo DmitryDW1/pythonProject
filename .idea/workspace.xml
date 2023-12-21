@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add hw_task_2 and hw_task_3">
-      <change afterPath="$PROJECT_DIR$/Lection2/pract_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_atr_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_atr_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_atr_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_atr_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_mut_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_mut_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_type_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_type_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_type_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_type_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_type_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_typing_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_typing_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection2/task_typing_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Lection2">
+      <change afterPath="$PROJECT_DIR$/Lection2/task_dig_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703081789526</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Lection2">
+      <option name="closed" value="true" />
+      <created>1703134822538</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703134822538</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,6 +304,7 @@
     <MESSAGE value="Add task_9" />
     <MESSAGE value="Add hw_task_1" />
     <MESSAGE value="Add hw_task_2 and hw_task_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hw_task_2 and hw_task_3" />
+    <MESSAGE value="Lection2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lection2" />
   </component>
 </project>
