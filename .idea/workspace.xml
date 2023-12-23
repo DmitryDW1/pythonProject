@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_1.py, task_2.py">
-      <change afterPath="$PROJECT_DIR$/seminar_2/task_3.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add task_4.py">
+      <change afterPath="$PROJECT_DIR$/bancomat/bancomat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work_sem_2/hw_task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work_sem_2/hw_task_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_2/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminar_2/task_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.hw_task_1.executor": "Run",
-    "Python.hw_task_2.executor": "Debug",
+    "Python.hw_task_2.executor": "Run",
     "Python.hw_task_3.executor": "Run",
     "Python.pract_1.executor": "Run",
     "Python.pract_2.executor": "Run",
@@ -58,6 +61,7 @@
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
     "Python.task_6.executor": "Run",
     "Python.task_7.executor": "Run",
     "Python.task_8.executor": "Run",
@@ -119,6 +123,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DmitryDW\PycharmProjects\pythonProject\bancomat" />
       <recent name="C:\Users\DmitryDW\PycharmProjects\pythonProject" />
       <recent name="C:\Users\DmitryDW\PycharmProjects\pythonProject\.venv\Lection1" />
     </key>
@@ -392,7 +397,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703148653976</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add task_3.py">
+      <option name="closed" value="true" />
+      <created>1703206653396</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1703206653396</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add task_4.py">
+      <option name="closed" value="true" />
+      <created>1703210621882</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1703210621882</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,6 +445,8 @@
     <MESSAGE value="Add task_math_1.py, task_math_2.py, task_math_3.py" />
     <MESSAGE value="Add task_math_4.py, task_math_5.py" />
     <MESSAGE value="Add task_1.py, task_2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add task_1.py, task_2.py" />
+    <MESSAGE value="Add task_3.py" />
+    <MESSAGE value="Add task_4.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add task_4.py" />
   </component>
 </project>

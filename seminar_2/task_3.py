@@ -15,7 +15,9 @@ num = int(input("Введите целое число:"))
 def tobase(num: int, base: int):
     result = ""
     while num > 0:
-        result = str(num % base) + result
+        temp_num = num % base
+
+        result = str(temp_num) + result
         num //= base
     return result
 
