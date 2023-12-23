@@ -12,17 +12,17 @@ frac2 = "2/3"
 
 # Введите ваше решение ниже
 
-def sum_fraction(user_numerator_frac1, user_numerator_frac2, user_denominator_frac1, user_denominator_frac2):
-    common_denominator = int(user_denominator_frac1) * int(user_denominator_frac2)
-    sum_numerators = (int(user_numerator_frac1) * int(user_denominator_frac2) +
-                      int(user_numerator_frac2) * int(user_denominator_frac1))
+def sum_fraction(numerator_1, numerator_2, denominator_1, denominator_2):
+    common_denominator = int(denominator_1) * int(denominator_2)
+    sum_numerators = (int(numerator_1) * int(denominator_2) +
+                      int(numerator_2) * int(denominator_1))
     answer = f'{sum_numerators}/{common_denominator}'
     return answer
 
 
-def mult_fraction(user_numerator_frac1, user_numerator_frac2, user_denominator_frac1, user_denominator_frac2):
-    mult_numerators = int(user_numerator_frac1) * int(user_numerator_frac2)
-    mult_denominators = int(user_denominator_frac1) * int(user_denominator_frac2)
+def mult_fraction(numerator_1, numerator_2, denominator_1, denominator_2):
+    mult_numerators = int(numerator_1) * int(numerator_2)
+    mult_denominators = int(denominator_1) * int(denominator_2)
     answer = f'{mult_numerators}/{mult_denominators}'
     return answer
 
