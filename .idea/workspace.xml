@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add Lection3">
-      <change afterPath="$PROJECT_DIR$/Lection3/task_bytes_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_dict_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_set_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_set_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_set_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_set_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_set_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_set_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_set_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_set_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection3/task_tuple.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Change Lection3">
+      <change afterPath="$PROJECT_DIR$/seminar_3/task_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_3/task_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_3/task_03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +76,8 @@
     "Python.pract_1.executor": "Run",
     "Python.pract_2.executor": "Run",
     "Python.task1.executor": "Run",
+    "Python.task_02.executor": "Run",
+    "Python.task_03.executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
@@ -107,6 +91,7 @@
     "Python.task_atr_3.executor": "Run",
     "Python.task_atr_4.executor": "Run",
     "Python.task_bytes_01.executor": "Run",
+    "Python.task_bytes_02.executor": "Run",
     "Python.task_dict_01.executor": "Run",
     "Python.task_dict_02.executor": "Run",
     "Python.task_dict_03.executor": "Run",
@@ -249,7 +234,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
       </set>
     </attachedChunks>
   </component>
@@ -534,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703355101379</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Change Lection3">
+      <option name="closed" value="true" />
+      <created>1703439801053</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1703439801053</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,6 +577,7 @@
     <MESSAGE value="Change hw_task_2.py" />
     <MESSAGE value="Add bancomat.py" />
     <MESSAGE value="Add Lection3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Lection3" />
+    <MESSAGE value="Change Lection3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Lection3" />
   </component>
 </project>
