@@ -24,7 +24,7 @@ max_weight = 1.0
 max_weight_items = Decimal(str(max_weight))
 backpack = {}
 for i in items:
-    if max_weight_items >= items[i]:
+    if max_weight_items >= Decimal(str(items[i])):
         if i not in backpack:
             backpack.setdefault(i, items[i])
         max_weight_items -= Decimal(str(items.get(i)))
