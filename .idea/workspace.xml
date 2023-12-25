@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Change Lection3">
-      <change afterPath="$PROJECT_DIR$/seminar_3/task_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_3/task_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_3/task_03.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add seminar_3">
+      <change afterPath="$PROJECT_DIR$/seminar_3/task_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_3/task_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_3/task_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_3/task_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_3/task_08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +80,11 @@
     "Python.task1.executor": "Run",
     "Python.task_02.executor": "Run",
     "Python.task_03.executor": "Run",
+    "Python.task_04.executor": "Run",
+    "Python.task_05.executor": "Run",
+    "Python.task_06.executor": "Run",
+    "Python.task_07.executor": "Run",
+    "Python.task_08.executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
@@ -527,7 +534,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703439801053</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Add seminar_3">
+      <option name="closed" value="true" />
+      <created>1703495878315</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1703495878315</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -578,6 +593,7 @@
     <MESSAGE value="Add bancomat.py" />
     <MESSAGE value="Add Lection3" />
     <MESSAGE value="Change Lection3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Lection3" />
+    <MESSAGE value="Add seminar_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add seminar_3" />
   </component>
 </project>
