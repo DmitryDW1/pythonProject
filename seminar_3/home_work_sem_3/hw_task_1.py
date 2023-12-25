@@ -8,7 +8,7 @@
 
 Достаточно получить один допустимый вариант и сохранить в переменную backpack. Не выводите backpack на экран
 """
-import decimal
+
 from decimal import Decimal
 
 items = {
