@@ -54,4 +54,4 @@ for tup in res:
         encountered[tup] = True
         result.append(tup)
 
-print(sorted(result, key=lambda a: a[1], reverse=True))
+print(sorted(result, key=(lambda a: a[1]), reverse=True)[:10])
