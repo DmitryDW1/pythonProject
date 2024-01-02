@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add pdf in Lection3" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add pdf in Lection2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -575,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704207701374</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Add pdf in Lection2">
+      <created>1704211097799</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1704211097799</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -603,7 +610,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Lection2" />
     <MESSAGE value="Add task_dig_1.py and task_dig_2.py" />
     <MESSAGE value="Add task_dig_3.py and task_dig_4.py, task_dig_5.py" />
     <MESSAGE value="Add task_dig_6.py and task_dig_7.py, task_dig_8.py" />
@@ -628,6 +634,7 @@
     <MESSAGE value="Add Lection4" />
     <MESSAGE value="Add pdf in Lection4" />
     <MESSAGE value="Add pdf in Lection3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add pdf in Lection3" />
+    <MESSAGE value="Add pdf in Lection2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pdf in Lection2" />
   </component>
 </project>
