@@ -5,7 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Change home_work_sem_3 (add hw_task_2.py)">
-      <change afterPath="$PROJECT_DIR$/seminar_3/home_work_sem_3/hw_task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builins_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builins_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection4/task_def_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +56,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -52,6 +93,9 @@
         <option name="url" value="https://github.com/DmitryDW1/pythonProject.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -560,7 +604,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/bancomat" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
