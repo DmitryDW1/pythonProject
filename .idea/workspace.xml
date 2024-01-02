@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Change home_work_sem_3 (add hw_task_2.py)">
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builins_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builins_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtin_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_builtins_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lection4/task_def_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add Lection4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,137 +67,137 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.hw_task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pract_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pract_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_atr_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_atr_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_atr_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_atr_4.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.task_bytes_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_bytes_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dict_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dig_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dig_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dig_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dig_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dig_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dig_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dig_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_dig_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_if_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_list_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_loop_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_loop_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_loop_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_loop_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_loop_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_loop_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_math_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_math_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_math_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_math_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_math_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_mut_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_mut_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_set_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_set_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_set_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_set_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_set_05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_set_06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_set_07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_set_08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_str_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_type_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_type_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_type_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_type_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_type_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_typing_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_typing_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_typing_3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DmitryDW/PycharmProjects/pythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.hw_task_1.executor": "Run",
+    "Python.hw_task_2.executor": "Run",
+    "Python.hw_task_3.executor": "Run",
+    "Python.pract_1.executor": "Run",
+    "Python.pract_2.executor": "Run",
+    "Python.task1.executor": "Run",
+    "Python.task_02.executor": "Run",
+    "Python.task_03.executor": "Run",
+    "Python.task_04.executor": "Run",
+    "Python.task_05.executor": "Run",
+    "Python.task_06.executor": "Run",
+    "Python.task_07.executor": "Run",
+    "Python.task_08.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "Python.task_9.executor": "Run",
+    "Python.task_atr_1.executor": "Run",
+    "Python.task_atr_2.executor": "Run",
+    "Python.task_atr_3.executor": "Run",
+    "Python.task_atr_4.executor": "Debug",
+    "Python.task_bytes_01.executor": "Run",
+    "Python.task_bytes_02.executor": "Run",
+    "Python.task_dict_01.executor": "Run",
+    "Python.task_dict_02.executor": "Run",
+    "Python.task_dict_03.executor": "Run",
+    "Python.task_dict_04.executor": "Run",
+    "Python.task_dict_05.executor": "Run",
+    "Python.task_dict_06.executor": "Run",
+    "Python.task_dict_07.executor": "Run",
+    "Python.task_dict_08.executor": "Run",
+    "Python.task_dict_09.executor": "Run",
+    "Python.task_dict_10.executor": "Run",
+    "Python.task_dict_11.executor": "Run",
+    "Python.task_dig_1.executor": "Run",
+    "Python.task_dig_2.executor": "Run",
+    "Python.task_dig_3.executor": "Run",
+    "Python.task_dig_4.executor": "Run",
+    "Python.task_dig_5.executor": "Run",
+    "Python.task_dig_6.executor": "Run",
+    "Python.task_dig_7.executor": "Run",
+    "Python.task_dig_8.executor": "Run",
+    "Python.task_if_1.executor": "Run",
+    "Python.task_if_10.executor": "Run",
+    "Python.task_if_3.executor": "Run",
+    "Python.task_if_4.executor": "Run",
+    "Python.task_if_5.executor": "Run",
+    "Python.task_if_6.executor": "Run",
+    "Python.task_if_7.executor": "Run",
+    "Python.task_if_8.executor": "Run",
+    "Python.task_if_9.executor": "Run",
+    "Python.task_list_1.executor": "Run",
+    "Python.task_list_10.executor": "Run",
+    "Python.task_list_11.executor": "Run",
+    "Python.task_list_12.executor": "Run",
+    "Python.task_list_13.executor": "Run",
+    "Python.task_list_14.executor": "Run",
+    "Python.task_list_15.executor": "Run",
+    "Python.task_list_16.executor": "Run",
+    "Python.task_list_17.executor": "Run",
+    "Python.task_list_18.executor": "Run",
+    "Python.task_list_2.executor": "Run",
+    "Python.task_list_3.executor": "Run",
+    "Python.task_list_4.executor": "Run",
+    "Python.task_list_5.executor": "Run",
+    "Python.task_list_6.executor": "Run",
+    "Python.task_list_7.executor": "Run",
+    "Python.task_list_8.executor": "Run",
+    "Python.task_list_9.executor": "Run",
+    "Python.task_loop_1.executor": "Run",
+    "Python.task_loop_2.executor": "Run",
+    "Python.task_loop_3.executor": "Run",
+    "Python.task_loop_4.executor": "Run",
+    "Python.task_loop_6.executor": "Run",
+    "Python.task_loop_7.executor": "Run",
+    "Python.task_math_1.executor": "Run",
+    "Python.task_math_2.executor": "Run",
+    "Python.task_math_3.executor": "Run",
+    "Python.task_math_4.executor": "Run",
+    "Python.task_math_5.executor": "Run",
+    "Python.task_mut_1.executor": "Run",
+    "Python.task_mut_2.executor": "Run",
+    "Python.task_set_01.executor": "Run",
+    "Python.task_set_02.executor": "Run",
+    "Python.task_set_03.executor": "Run",
+    "Python.task_set_04.executor": "Run",
+    "Python.task_set_05.executor": "Run",
+    "Python.task_set_06.executor": "Run",
+    "Python.task_set_07.executor": "Run",
+    "Python.task_set_08.executor": "Run",
+    "Python.task_str_01.executor": "Run",
+    "Python.task_str_02.executor": "Run",
+    "Python.task_str_03.executor": "Run",
+    "Python.task_str_04.executor": "Run",
+    "Python.task_str_05.executor": "Run",
+    "Python.task_str_06.executor": "Run",
+    "Python.task_str_07.executor": "Run",
+    "Python.task_str_08.executor": "Run",
+    "Python.task_str_09.executor": "Run",
+    "Python.task_str_1.executor": "Run",
+    "Python.task_str_10.executor": "Run",
+    "Python.task_str_11.executor": "Run",
+    "Python.task_str_2.executor": "Run",
+    "Python.task_str_3.executor": "Run",
+    "Python.task_str_4.executor": "Run",
+    "Python.task_tuple.executor": "Run",
+    "Python.task_type_1.executor": "Run",
+    "Python.task_type_2.executor": "Run",
+    "Python.task_type_3.executor": "Run",
+    "Python.task_type_4.executor": "Run",
+    "Python.task_type_5.executor": "Run",
+    "Python.task_typing_1.executor": "Run",
+    "Python.task_typing_2.executor": "Run",
+    "Python.task_typing_3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/DmitryDW/PycharmProjects/pythonProject",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DmitryDW\PycharmProjects\pythonProject\bancomat" />
@@ -590,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703740680133</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Add Lection4">
+      <created>1704205885620</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1704205885620</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -618,7 +584,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add task_9" />
     <MESSAGE value="Add hw_task_1" />
     <MESSAGE value="Add hw_task_2 and hw_task_3" />
     <MESSAGE value="Lection2" />
@@ -643,6 +608,7 @@
     <MESSAGE value="Add home_work_sem_3" />
     <MESSAGE value="Change home_work_sem_3" />
     <MESSAGE value="Change home_work_sem_3 (add hw_task_2.py)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change home_work_sem_3 (add hw_task_2.py)" />
+    <MESSAGE value="Add Lection4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lection4" />
   </component>
 </project>
