@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add seminar_4 task_2.py">
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add changes seminar_4 task_3.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,22 +218,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702919773083</updated>
-    </task>
-    <task id="LOCAL-00004" summary="New commit">
-      <option name="closed" value="true" />
-      <created>1703053111194</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1703053111194</updated>
-    </task>
-    <task id="LOCAL-00005" summary="New commit">
-      <option name="closed" value="true" />
-      <created>1703058077624</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1703058077624</updated>
     </task>
     <task id="LOCAL-00006" summary="New commit">
       <option name="closed" value="true" />
@@ -603,7 +584,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704256310165</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Add seminar_4 task_3.py">
+      <created>1704257454952</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1704257454953</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Add changes seminar_4 task_3.py">
+      <created>1704257653925</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1704257653925</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -631,8 +626,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add pract_2.py" />
-    <MESSAGE value="Add task_math_1.py, task_math_2.py, task_math_3.py" />
     <MESSAGE value="Add task_math_4.py, task_math_5.py" />
     <MESSAGE value="Add task_1.py, task_2.py" />
     <MESSAGE value="Add task_3.py" />
@@ -656,6 +649,8 @@
     <MESSAGE value="Add seminar_4 task_1.py" />
     <MESSAGE value="Change seminar_4 task_1.py" />
     <MESSAGE value="Add seminar_4 task_2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add seminar_4 task_2.py" />
+    <MESSAGE value="Add seminar_4 task_3.py" />
+    <MESSAGE value="Add changes seminar_4 task_3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add changes seminar_4 task_3.py" />
   </component>
 </project>
