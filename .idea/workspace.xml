@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add change seminar_4 task_5.py">
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_6.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add change seminar_4 task_6.py">
+      <change afterPath="$PROJECT_DIR$/seminar_4/task_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,14 +222,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702919773083</updated>
-    </task>
-    <task id="LOCAL-00010" summary="New commit">
-      <option name="closed" value="true" />
-      <created>1703060194180</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1703060194180</updated>
     </task>
     <task id="LOCAL-00011" summary="Add tasks">
       <option name="closed" value="true" />
@@ -599,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704262988942</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Add change seminar_4 task_6.py">
+      <option name="closed" value="true" />
+      <created>1704264478045</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1704264478046</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -627,7 +627,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add task_4.py" />
     <MESSAGE value="Add home_work_sem_2" />
     <MESSAGE value="Change hw_task_2.py" />
     <MESSAGE value="Add bancomat.py" />
@@ -652,6 +651,7 @@
     <MESSAGE value="Add seminar_4 task_4.py" />
     <MESSAGE value="Add seminar_4 task_5.py" />
     <MESSAGE value="Add change seminar_4 task_5.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add change seminar_4 task_5.py" />
+    <MESSAGE value="Add change seminar_4 task_6.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add change seminar_4 task_6.py" />
   </component>
 </project>
