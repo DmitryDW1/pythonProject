@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Change seminar_4 task_1.py">
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_2.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add seminar_4 task_2.py">
+      <change afterPath="$PROJECT_DIR$/seminar_4/task_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,14 +221,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702919773083</updated>
-    </task>
-    <task id="LOCAL-00003" summary="New commit">
-      <option name="closed" value="true" />
-      <created>1703053052838</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1703053052838</updated>
     </task>
     <task id="LOCAL-00004" summary="New commit">
       <option name="closed" value="true" />
@@ -604,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704254682081</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Add seminar_4 task_2.py">
+      <created>1704256310165</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1704256310165</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -632,7 +631,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Add task_str_4" />
     <MESSAGE value="Add pract_2.py" />
     <MESSAGE value="Add task_math_1.py, task_math_2.py, task_math_3.py" />
     <MESSAGE value="Add task_math_4.py, task_math_5.py" />
@@ -657,6 +655,7 @@
     <MESSAGE value="Refactor seminar_1" />
     <MESSAGE value="Add seminar_4 task_1.py" />
     <MESSAGE value="Change seminar_4 task_1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change seminar_4 task_1.py" />
+    <MESSAGE value="Add seminar_4 task_2.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add seminar_4 task_2.py" />
   </component>
 </project>
