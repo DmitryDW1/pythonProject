@@ -15,12 +15,12 @@ some_text = 'Задание №1' \
             '✔ Строки нумеруются начиная с единицы.' \
             '✔ Слова выводятся отсортированными согласно кодировки Unicode.' \
             '✔ Текст выравнивается по правому краю так, чтобы у самого' \
-            'длинного слова был один пробел между ним и номером строки.'
+            ' длинного слова был один пробел между ним и номером строки.'
 
 
 def word_processing(text):
     len_word = 0
-    some_words = text.split(' ')
+    some_words = sorted(text.split(' '))
     for word in some_words:
         if len(word) > len_word:
             len_word = len(word)
