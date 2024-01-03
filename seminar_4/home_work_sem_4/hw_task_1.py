@@ -15,6 +15,7 @@ def transpose(matrix):
 
 transposed_matrix = transpose(matrix)
 print(transposed_matrix)
+<<<<<<< HEAD
 
 # def transpose(matrix):
 #     # определяем количество строк и столбцов в матрице
@@ -31,3 +32,5 @@ print(transposed_matrix)
 # 
 #     return transposed
 
+=======
+>>>>>>> origin/master
