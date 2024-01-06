@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add seminar_4 task_7.py">
-      <change afterPath="$PROJECT_DIR$/seminar_4/home_work_sem_4/hw_task_3.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add home_work_sem_4 hw_task_3.py">
+      <change afterPath="$PROJECT_DIR$/seminar_5/test/task_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_5/test/task_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_5/test/task_03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +80,7 @@
     "Python.pract_1.executor": "Run",
     "Python.pract_2.executor": "Run",
     "Python.task1.executor": "Run",
+    "Python.task_01.executor": "Run",
     "Python.task_02.executor": "Run",
     "Python.task_03.executor": "Run",
     "Python.task_04.executor": "Run",
@@ -197,7 +200,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/DmitryDW/PycharmProjects/pythonProject",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -222,14 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702919773083</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Add task_8">
-      <option name="closed" value="true" />
-      <created>1703071553399</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1703071553399</updated>
     </task>
     <task id="LOCAL-00013" summary="Add task_9">
       <option name="closed" value="true" />
@@ -599,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704265621244</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Add home_work_sem_4 hw_task_3.py">
+      <option name="closed" value="true" />
+      <created>1704302091152</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1704302091152</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -627,7 +630,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Change hw_task_2.py" />
     <MESSAGE value="Add bancomat.py" />
     <MESSAGE value="Add Lection3" />
     <MESSAGE value="Change Lection3" />
@@ -652,6 +654,7 @@
     <MESSAGE value="Add change seminar_4 task_5.py" />
     <MESSAGE value="Add change seminar_4 task_6.py" />
     <MESSAGE value="Add seminar_4 task_7.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add seminar_4 task_7.py" />
+    <MESSAGE value="Add home_work_sem_4 hw_task_3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add home_work_sem_4 hw_task_3.py" />
   </component>
 </project>
