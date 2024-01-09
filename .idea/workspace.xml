@@ -4,11 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Add home_work_sem_4 hw_task_3.py">
-      <change afterPath="$PROJECT_DIR$/seminar_5/test/task_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_5/test/task_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_5/test/task_03.py" afterDir="false" />
+    <list default="true" id="a5c558e4-d43a-44f1-b844-b3ed4d3338d1" name="Changes" comment="Change home_work_sem_3 (add hw_task_2.py)">
+      <change afterPath="$PROJECT_DIR$/Lection5/mydata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_generator_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_generator_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_generator_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_generator_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_generator_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_generator_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_generator_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_generator_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_iterator_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_iterator_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_iterator_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_iterator_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_iterator_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_oneline_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_test_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_test_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_yield_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_yield_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lection5/task_yield_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_5/test/task_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminar_5/test/task_03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +48,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -56,9 +85,6 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -80,7 +106,6 @@
     "Python.pract_1.executor": "Run",
     "Python.pract_2.executor": "Run",
     "Python.task1.executor": "Run",
-    "Python.task_01.executor": "Run",
     "Python.task_02.executor": "Run",
     "Python.task_03.executor": "Run",
     "Python.task_04.executor": "Run",
@@ -92,7 +117,6 @@
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
     "Python.task_4.executor": "Run",
-    "Python.task_5.executor": "Run",
     "Python.task_6.executor": "Run",
     "Python.task_7.executor": "Run",
     "Python.task_8.executor": "Run",
@@ -122,6 +146,14 @@
     "Python.task_dig_6.executor": "Run",
     "Python.task_dig_7.executor": "Run",
     "Python.task_dig_8.executor": "Run",
+    "Python.task_generator_01.executor": "Run",
+    "Python.task_generator_02.executor": "Run",
+    "Python.task_generator_03.executor": "Run",
+    "Python.task_generator_04.executor": "Run",
+    "Python.task_generator_05.executor": "Run",
+    "Python.task_generator_06.executor": "Run",
+    "Python.task_generator_07.executor": "Run",
+    "Python.task_generator_08.executor": "Run",
     "Python.task_if_1.executor": "Run",
     "Python.task_if_10.executor": "Run",
     "Python.task_if_3.executor": "Run",
@@ -131,6 +163,10 @@
     "Python.task_if_7.executor": "Run",
     "Python.task_if_8.executor": "Run",
     "Python.task_if_9.executor": "Run",
+    "Python.task_iterator_01.executor": "Run",
+    "Python.task_iterator_02.executor": "Run",
+    "Python.task_iterator_03.executor": "Run",
+    "Python.task_iterator_04.executor": "Run",
     "Python.task_list_1.executor": "Run",
     "Python.task_list_10.executor": "Run",
     "Python.task_list_11.executor": "Run",
@@ -162,6 +198,16 @@
     "Python.task_math_5.executor": "Run",
     "Python.task_mut_1.executor": "Run",
     "Python.task_mut_2.executor": "Run",
+    "Python.task_oneline_01.executor": "Run",
+    "Python.task_oneline_02.executor": "Run",
+    "Python.task_oneline_03.executor": "Run",
+    "Python.task_oneline_04.executor": "Run",
+    "Python.task_oneline_05.executor": "Run",
+    "Python.task_oneline_06.executor": "Run",
+    "Python.task_oneline_07.executor": "Run",
+    "Python.task_oneline_08.executor": "Run",
+    "Python.task_oneline_09.executor": "Run",
+    "Python.task_oneline_10.executor": "Run",
     "Python.task_set_01.executor": "Run",
     "Python.task_set_02.executor": "Run",
     "Python.task_set_03.executor": "Run",
@@ -185,6 +231,9 @@
     "Python.task_str_2.executor": "Run",
     "Python.task_str_3.executor": "Run",
     "Python.task_str_4.executor": "Run",
+    "Python.task_test_01.executor": "Run",
+    "Python.task_test_02.executor": "Run",
+    "Python.task_test_03.executor": "Run",
     "Python.task_tuple.executor": "Run",
     "Python.task_type_1.executor": "Run",
     "Python.task_type_2.executor": "Run",
@@ -194,13 +243,15 @@
     "Python.task_typing_1.executor": "Run",
     "Python.task_typing_2.executor": "Run",
     "Python.task_typing_3.executor": "Run",
+    "Python.task_yield_01.executor": "Run",
+    "Python.task_yield_02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/DmitryDW/PycharmProjects/pythonProject",
-    "settings.editor.selected.configurable": "proofread"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -209,6 +260,54 @@
       <recent name="C:\Users\DmitryDW\PycharmProjects\pythonProject" />
       <recent name="C:\Users\DmitryDW\PycharmProjects\pythonProject\.venv\Lection1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="task_03" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminar_5/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_08" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminar_3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminar_3/task_08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -225,6 +324,102 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702919773083</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703048767702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703048767702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703053012268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703053012268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703053052838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703053052838</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703053111194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703053111194</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703058077624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058077624</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703058766287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058766287</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703058830798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058830798</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703059499310</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703059499311</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703059976658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703059976658</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New commit">
+      <option name="closed" value="true" />
+      <created>1703060194180</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703060194180</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add tasks">
+      <option name="closed" value="true" />
+      <created>1703070257852</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703070257852</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add task_8">
+      <option name="closed" value="true" />
+      <created>1703071553399</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703071553399</updated>
     </task>
     <task id="LOCAL-00013" summary="Add task_9">
       <option name="closed" value="true" />
@@ -458,151 +653,7 @@
       <option name="project" value="LOCAL" />
       <updated>1703740680133</updated>
     </task>
-    <task id="LOCAL-00042" summary="Add Lection4">
-      <created>1704205885620</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1704205885620</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Add pdf in Lection4">
-      <created>1704207367210</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1704207367210</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Add pdf in Lection3">
-      <created>1704207641532</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1704207641532</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Add pdf in Lection3">
-      <created>1704207701374</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1704207701374</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Add pdf in Lection2">
-      <created>1704211097799</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1704211097799</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Add pdf in Lection1">
-      <created>1704211535357</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1704211535357</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Refactor seminar_1">
-      <created>1704253627881</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1704253627881</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Add seminar_4 task_1.py">
-      <created>1704253689390</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1704253689390</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Change seminar_4 task_1.py">
-      <created>1704254589531</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1704254589532</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Change seminar_4 task_1.py">
-      <created>1704254682081</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1704254682081</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Add seminar_4 task_2.py">
-      <created>1704256310165</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1704256310165</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Add seminar_4 task_3.py">
-      <created>1704257454952</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1704257454953</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Add changes seminar_4 task_3.py">
-      <created>1704257653925</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1704257653925</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Add changes seminar_4 task_3.py">
-      <created>1704257900581</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1704257900582</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Add seminar_4 task_4.py">
-      <created>1704258942257</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1704258942258</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Add seminar_4 task_5.py">
-      <created>1704261174414</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1704261174414</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Add change seminar_4 task_5.py">
-      <option name="closed" value="true" />
-      <created>1704262988941</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1704262988942</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Add change seminar_4 task_6.py">
-      <option name="closed" value="true" />
-      <created>1704264478045</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1704264478046</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Add seminar_4 task_7.py">
-      <option name="closed" value="true" />
-      <created>1704265621243</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1704265621244</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Add home_work_sem_4 hw_task_3.py">
-      <option name="closed" value="true" />
-      <created>1704302091152</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1704302091152</updated>
-    </task>
-    <option name="localTasksCounter" value="62" />
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -616,7 +667,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/bancomat" />
                       </list>
                     </value>
                   </entry>
@@ -630,6 +681,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../pythonProject22" />
+    </ignored-roots>
+    <MESSAGE value="Add task_9" />
+    <MESSAGE value="Add hw_task_1" />
+    <MESSAGE value="Add hw_task_2 and hw_task_3" />
+    <MESSAGE value="Lection2" />
+    <MESSAGE value="Add task_dig_1.py and task_dig_2.py" />
+    <MESSAGE value="Add task_dig_3.py and task_dig_4.py, task_dig_5.py" />
+    <MESSAGE value="Add task_dig_6.py and task_dig_7.py, task_dig_8.py" />
+    <MESSAGE value="Add task_str_1.py.py and task_str_2.py.py, task_str_3.py.py" />
+    <MESSAGE value="Add task_str_4" />
+    <MESSAGE value="Add pract_2.py" />
+    <MESSAGE value="Add task_math_1.py, task_math_2.py, task_math_3.py" />
+    <MESSAGE value="Add task_math_4.py, task_math_5.py" />
+    <MESSAGE value="Add task_1.py, task_2.py" />
+    <MESSAGE value="Add task_3.py" />
+    <MESSAGE value="Add task_4.py" />
+    <MESSAGE value="Add home_work_sem_2" />
+    <MESSAGE value="Change hw_task_2.py" />
     <MESSAGE value="Add bancomat.py" />
     <MESSAGE value="Add Lection3" />
     <MESSAGE value="Change Lection3" />
@@ -638,23 +709,6 @@
     <MESSAGE value="Add home_work_sem_3" />
     <MESSAGE value="Change home_work_sem_3" />
     <MESSAGE value="Change home_work_sem_3 (add hw_task_2.py)" />
-    <MESSAGE value="Add Lection4" />
-    <MESSAGE value="Add pdf in Lection4" />
-    <MESSAGE value="Add pdf in Lection3" />
-    <MESSAGE value="Add pdf in Lection2" />
-    <MESSAGE value="Add pdf in Lection1" />
-    <MESSAGE value="Refactor seminar_1" />
-    <MESSAGE value="Add seminar_4 task_1.py" />
-    <MESSAGE value="Change seminar_4 task_1.py" />
-    <MESSAGE value="Add seminar_4 task_2.py" />
-    <MESSAGE value="Add seminar_4 task_3.py" />
-    <MESSAGE value="Add changes seminar_4 task_3.py" />
-    <MESSAGE value="Add seminar_4 task_4.py" />
-    <MESSAGE value="Add seminar_4 task_5.py" />
-    <MESSAGE value="Add change seminar_4 task_5.py" />
-    <MESSAGE value="Add change seminar_4 task_6.py" />
-    <MESSAGE value="Add seminar_4 task_7.py" />
-    <MESSAGE value="Add home_work_sem_4 hw_task_3.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add home_work_sem_4 hw_task_3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change home_work_sem_3 (add hw_task_2.py)" />
   </component>
 </project>
